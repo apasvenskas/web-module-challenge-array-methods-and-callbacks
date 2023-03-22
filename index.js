@@ -117,13 +117,9 @@ Create a function called `getCountryWins` that takes the parameters `data` and `
 Hint: Investigate your data to find "team initials"!
 Hint: use `.reduce` */
 
-function getCountryWins(data, team, cb4) {
-    const country=cb4.map((team) => {
-        return team.team; 
-    })
-    return country; 
+function getCountryWins(data, team,) {
+  
 }
-console.log('ST1', getCountryWins(fifaData, 'Brazil', getFinals));
 
 
 /* 💪💪💪💪💪 Stretch 2: 💪💪💪💪💪 
