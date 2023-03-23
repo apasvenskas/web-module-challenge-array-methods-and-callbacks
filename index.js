@@ -1,4 +1,4 @@
-//const { fifaData } = require('./fifa.js')
+const { fifaData } = require('./fifa.js')
 
 // ⚽️ M  V P ⚽️ //
 
