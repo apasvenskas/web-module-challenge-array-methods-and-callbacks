@@ -1,4 +1,4 @@
-const { fifaData } = require('./fifa.js')
+//const { fifaData } = require('./fifa.js')
 
 // ⚽️ M  V P ⚽️ //
 
@@ -117,9 +117,9 @@ Create a function called `getCountryWins` that takes the parameters `data` and `
 Hint: Investigate your data to find "team initials"!
 Hint: use `.reduce` */
 
-function getCountryWins(data, team,) {
+//function getCountryWins(data, team,) {
   
-}
+//}
 
 
 /* 💪💪💪💪💪 Stretch 2: 💪💪💪💪💪 
